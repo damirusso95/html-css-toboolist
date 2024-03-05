@@ -85,4 +85,52 @@ main{
         border-color: green;
         color: green;
     }
+
+    .cross{
+        border-color: red;
+        color: red;
+    }
+    
+    .tag{
+        display: inline-block;
+        border: 2px solid;
+        border-radius: 5px;
+        font-size: 0.5em;
+        padding: 0.1em 0.6em;
+        color: white;
+    }
+    
+    #blu{
+        background-color: rgb(2, 48, 165);
+        border-color: rgb(2, 48, 165);
+    }
+    
+    #viola{
+        background-color: violet;
+        border-color: violet;
+    }
+    #green{
+        background-color: green;
+        border-color: green;
+    }
+    
+    #light-green{
+        background-color: lightgreen;
+        border-color: lightgreen;
+    }
+    
+    #orange{
+        background-color: orange;
+        border-color: orange;
+    }
+    
+    #rosa{
+        background-color: pink;
+        border-color: pink;
+    }
+    
+    #olive{
+        background-color: olive;
+        border-color: olive;
+    }
     
