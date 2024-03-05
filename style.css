@@ -5,6 +5,23 @@
     font-family: sans-serif;
 }
 
+body{
+    background-color: lightgrey;
+}
+
+header{
+    background-color: white;
+}
+
+
+.contenitore{
+    background-color: white;
+
+    margin-left: 25%;
+    margin-right:25%;
+    
+}
+
 .titolo{
     display: inline-block;
     vertical-align: middle;
@@ -17,9 +34,14 @@ img{
 }
 
 
-section{
+
+#section-header{
     height: 100px;
     margin-bottom: 1em;
+}
+main{
+    margin: 35%;
+   
 }
 
 .bottone{
@@ -28,4 +50,19 @@ section{
     font-weight: 800;
     cursor: pointer;
     border-style: none;
+    
 }
+
+#task{
+    background-color: rgb(0, 119, 255);
+    color: white;
+   
+}
+
+
+#section{
+    background-color: white;
+    color: grey;
+    border: solid; color: grey;
+}
+
