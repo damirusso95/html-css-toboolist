@@ -12,14 +12,9 @@ body{
 header{
     background-color: white;
 }
-
-
-.contenitore{
-    background-color: white;
-
-    margin-left: 25%;
-    margin-right:25%;
-    
+img{
+    margin-left: 1em;
+    vertical-align: middle;
 }
 
 .titolo{
@@ -29,40 +24,36 @@ header{
     font-weight: 600;
 }
 
-img{
-    vertical-align: middle;
-}
-
-
-
-#section-header{
-    height: 100px;
-    margin-bottom: 1em;
-}
 main{
-    margin: 35%;
-   
-}
-
-.bottone{
-    border-radius: 5px;
-    padding: 0.5em 1em;
-    font-weight: 800;
-    cursor: pointer;
-    border-style: none;
+    margin: 0 20%;
     
-}
+    }
 
-#task{
-    background-color: rgb(0, 119, 255);
-    color: white;
-   
-}
-
-
-#section{
+    .areabutton{
+        margin-top: 3em;
+        background-color: white;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-left: 3em;
+        border-radius: 10px 10px 0 0;
+    }
+    
+    .bottoni{
+        border-radius: 5px;
+        padding: 0.2em 1em;
+        font-weight: 900;
+        cursor: pointer;
+        border-style: none;
+    }
+    
+    #task{
+        background-color: aqua;
+        color: white;
+        border: solid 2px aqua;
+    }
+    
+    #task-2{
     background-color: white;
     color: grey;
-    border: solid; color: grey;
-}
-
+    border: solid 2px grey;
+    }
