@@ -57,3 +57,32 @@ main{
     color: grey;
     border: solid 2px grey;
     }
+
+
+    .arealist{
+        margin-top: 0.3em;
+        background-color: white;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-left: 3em;
+        border-radius: 0 0 10px 10px;
+    }
+    
+    ul{
+        list-style-type: none;
+    }
+    
+    span{
+        text-align: center;
+        vertical-align: middle;
+        box-sizing: content;
+        display: inline-block;
+        width: 12px;
+        border: 1px solid;
+        border-radius: 50%;
+        font-size: 0.5em;
+        font-weight: 500;
+        border-color: green;
+        color: green;
+    }
+    
