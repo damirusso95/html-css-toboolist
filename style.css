@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.titolo{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+img{
+    vertical-align: middle;
+}
